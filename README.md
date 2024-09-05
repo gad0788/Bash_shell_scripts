@@ -1,4 +1,4 @@
-# UTRAINS : Shell Scripting
+# Linux Sys Admin Shell Scripting
 
 A shell script is a computer program designed to be run by the Unix shell, a command-line interpreter.
 Use this guide to get a great hold on shell scripting!
