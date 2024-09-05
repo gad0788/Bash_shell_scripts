@@ -1,7 +1,7 @@
 #!/bin/bash
 
 
-    #Author : Utrains
+    #Author : gad petit
     #Date : 01-Nov-2021
     
 ## ---------- loops allow you to perform a repetitive action list   -----------------
